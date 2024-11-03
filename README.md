@@ -7,7 +7,7 @@ This project is a custom UNIX command-line shell developed as part of the Operat
 ## Project Versions and Features
 
 ### Version 01
-- **Prompt Display**: Shows a prompt (`PUCITshell:-`) for user commands.
+- **Prompt Display**: Shows a prompt (`SULEMANshell:-`) for user commands.
 - **Command Execution**: Parses commands with options and arguments, forks a process, and executes the command.
 - **Parent-Child Process Control**: The parent process waits for the child process to complete.
 - **Exit with CTRL+D**: Allows the user to quit the shell by pressing `<CTRL+D>`.
