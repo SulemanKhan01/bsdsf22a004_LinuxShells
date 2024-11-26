@@ -24,7 +24,7 @@
 #define MAX_LEN 512
 #define MAXARGS 10
 #define ARGLEN 30
-#define PROMPT "PUCITshell:- "
+#define PROMPT "SULEMANshell:- "
 
 int execute(char* arglist[]);
 char** tokenize(char* cmdline);
